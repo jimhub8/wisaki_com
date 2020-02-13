@@ -1,0 +1,8 @@
+äMA^<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"9557";s:11:"post_author";s:2:"11";s:9:"post_date";s:19:"2019-10-21 10:09:36";s:13:"post_date_gmt";s:19:"2019-10-21 07:09:36";s:12:"post_content";s:638:"You have always wanted Trim and strengthened arms, legs, hips and thighs. Use this Tummy Trimmer anyplace anytime, in the office, at home, watching TV. It is portable, compact and can fit right in your briefcase. With Contoured feet pedals, Rubber tube pull up bar, this Portable and light weight equipment can be used anywhere anytime. It Flattens tummy in just a few days, Firms chests and arms, Tightens hips and thighs.
+
+Offers up to 6 levels of training, 44 different exercises.
+Expand chest, back, arms, shoulders and abs in one motion.
+Compact so that you can take it anywhere
+Shape your body quickly, easily and effortlessly.";s:10:"post_title";s:49:"6 in 1 sculpting six pack Exercise Trainer -Black";s:12:"post_excerpt";s:89:"Portable and light weightâ€Ž
+Flattens tummy in just a few days
+Tightens hips and thighs";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:48:"6-in-1-sculpting-six-pack-exercise-trainer-black";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2019-10-21 10:09:37";s:17:"post_modified_gmt";s:19:"2019-10-21 07:09:37";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:51:"https://wisaki.co.ke/?post_type=product&#038;p=9557";s:10:"menu_order";s:1:"0";s:9:"post_type";s:7:"product";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

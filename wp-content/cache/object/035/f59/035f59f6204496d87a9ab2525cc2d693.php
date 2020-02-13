@@ -1,0 +1,8 @@
+�OA^<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:7077;s:11:"post_author";s:2:"21";s:9:"post_date";s:19:"2019-09-19 09:44:10";s:13:"post_date_gmt";s:19:"2019-09-19 06:44:10";s:12:"post_content";s:330:"These high-heeled shoes will quickly become your go-to footwear. They are elegant, fashionable and classy. They are stylish and comfortable. They are fit for both casual and occasions. They can easily match with any wear. Place an <strong>order </strong>at <strong>WISAKI </strong>and have it delivered right at your doorstep.";s:10:"post_title";s:22:"Cheetah red black heel";s:12:"post_excerpt";s:229:"<strong>Features.</strong>
+<ul>
+ 	<li>Colour: Red and black</li>
+ 	<li>Style: Cheetah</li>
+ 	<li>Easily match with any outfit</li>
+ 	<li>Fashionable, Classy, and Elegant design</li>
+ 	<li>Size : 37,38,39,40,41</li>
+</ul>";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:22:"cheetah-red-black-heel";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2019-09-19 09:44:11";s:17:"post_modified_gmt";s:19:"2019-09-19 06:44:11";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:51:"https://wisaki.co.ke/?post_type=product&#038;p=7077";s:10:"menu_order";i:0;s:9:"post_type";s:7:"product";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

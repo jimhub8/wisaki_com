@@ -1,0 +1,1 @@
+ƒQA^<?php exit; ?>a:1:{s:7:"content";a:2:{i:0;s:12:"reduced-rate";i:1;s:9:"zero-rate";}}

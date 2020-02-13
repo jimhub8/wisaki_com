@@ -1,0 +1,11 @@
+�MA^<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"9736";s:11:"post_author";s:2:"11";s:9:"post_date";s:19:"2019-10-22 18:20:09";s:13:"post_date_gmt";s:19:"2019-10-22 15:20:09";s:12:"post_content";s:908:"<ul>
+ 	<li>Specially designed for kids of 1-8 years old. This toddler toilet potty seat helps babies learn how to use toilet in restroom at home or even in public places, it will be a smart choice for mom.</li>
+ 	<li>—Assists toddlers to sit comfortably and securely with shrunken toilet opening, avoiding your babies falling off to the toilet effectively. Non-slip rubber padding and locks ensure device stability, not to move when use it, keep your children safe.</li>
+ 	<li>—High quality environmental PP material, resistant to elevated temperatures, BPA Free, safe and healthy, nontoxic and odorless, can be repeatedly washed, will not fade.</li>
+ 	<li>—Unfolded size: 35 x 29cm/13.77 x 11.4inches, fits for most standard-sized toilets. Folded size: 18 x 15cm/7 x 5.9inches, small size and carry bag can easily put it into your bags.</li>
+ 	<li>—Suitable for home and travel use.</li>
+</ul>";s:10:"post_title";s:15:"Baby toilet sit";s:12:"post_excerpt";s:421:"<ul>
+ 	<li>Specially designed for kids of 1-8 years old. This toddler toilet potty seat helps babies learn how to use toilet in restroom at home or even in public places, it will be a smart choice for mom.</li>
+ 	<li>—Assists toddlers to sit comfortably and securely with shrunken toilet opening, avoiding your babies falling off to the toilet effectively.</li>
+ 	<li>—Suitable for home and travel use,</li>
+</ul>";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:15:"baby-toilet-sit";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2019-10-22 18:20:09";s:17:"post_modified_gmt";s:19:"2019-10-22 15:20:09";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:51:"https://wisaki.co.ke/?post_type=product&#038;p=9736";s:10:"menu_order";s:1:"0";s:9:"post_type";s:7:"product";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

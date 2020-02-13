@@ -1,0 +1,1 @@
+ÊQA^<?php exit; ?>a:1:{s:7:"content";a:2:{s:20:"_ywcdd_type_checkout";a:1:{i:0;s:3:"yes";}s:13:"_thumbnail_id";a:1:{i:0;s:4:"3909";}}}

@@ -1,0 +1,8 @@
+�MA^<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"6427";s:11:"post_author";s:2:"12";s:9:"post_date";s:19:"2019-09-11 09:59:52";s:13:"post_date_gmt";s:19:"2019-09-11 06:59:52";s:12:"post_content";s:585:"Step up into the smartphone world in style with a seamless 3D Nano-pattern polycarbonate shell, plus a 5.45" display and large screen-to-body ratio for big-screen viewing – great for looking at stunning photos from the specially-tailored cameras. And do it all on the pure, secure and most up-to-date Android OS, Android 9 Pie (Go edition). It's smoother, more efficient and comes with free monthly security updates. The perfect phone for the everyday, straight out of the box. Order for this <strong>Nokia 1 Plus online from WISAKI and have it delivered to your doorstep.</strong>";s:10:"post_title";s:0:"";s:12:"post_excerpt";s:241:"<div class="title">Key Features</div>
+<ul>
+ 	<li>Display: 5.45” FWVGA+ IPS</li>
+ 	<li>Operating system: Android 9 Pie (Go edition)</li>
+ 	<li>Memory: 1GB RAM, 8GB</li>
+ 	<li>Camera: 8MP Rear, 5 front</li>
+ 	<li>SIM Dual</li>
+</ul>";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:4:"6427";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2019-09-11 09:59:52";s:17:"post_modified_gmt";s:19:"2019-09-11 06:59:52";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:51:"https://wisaki.co.ke/?post_type=product&#038;p=6427";s:10:"menu_order";s:1:"0";s:9:"post_type";s:7:"product";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

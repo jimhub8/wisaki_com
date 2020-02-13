@@ -1,0 +1,1 @@
+ÉQA^<?php exit; ?>a:1:{s:7:"content";s:88:"/home/wisauyqh/public_html/wp-content/themes/wisaki/woocommerce/single-product/title.php";}

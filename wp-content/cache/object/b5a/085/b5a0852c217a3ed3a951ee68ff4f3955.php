@@ -1,0 +1,8 @@
+�MA^<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"8287";s:11:"post_author";s:2:"11";s:9:"post_date";s:19:"2019-10-02 15:01:06";s:13:"post_date_gmt";s:19:"2019-10-02 12:01:06";s:12:"post_content";s:506:"The Oppo F5 Youth phone is equipped with 3GB of RAM and flagship Octa-core processor which speed up to 2.5GHz. The phone has 32GB of internal storage that can be expanded up to 256GB via a microSD card. Oppo F5 Youth features a 13-megapixel primary camera on the rear and a 16-megapixel front shooter for selfies. The Oppo F5 Youth runs ColorOS 3.2, based on Android 7.1 Nougat and a decently sized 3,200 mAh battery. The Oppo F5 Youth is a dual SIM smartphone that accepts Nano-SIM and dual stand-by";s:10:"post_title";s:13:"OPPO F5 Youth";s:12:"post_excerpt";s:317:"<ul>
+ 	<li><strong>OS</strong>: Android 7.1 (Nougat)</li>
+ 	<li><strong>Display:</strong> 6.0 inches</li>
+ 	<li><strong>RAM:</strong> 3 GB</li>
+ 	<li><strong>Internal Storage</strong>: 32 GB</li>
+ 	<li><strong>Camera:</strong> 16 MP</li>
+ 	<li><strong>Resolution: </strong>1080 x 2160 pixels</li>
+</ul>";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:13:"oppo-f5-youth";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2019-10-02 15:01:06";s:17:"post_modified_gmt";s:19:"2019-10-02 12:01:06";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:51:"https://wisaki.co.ke/?post_type=product&#038;p=8287";s:10:"menu_order";s:1:"0";s:9:"post_type";s:7:"product";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

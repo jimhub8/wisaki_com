@@ -1,0 +1,7 @@
+ÚMA^<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:7972;s:11:"post_author";s:2:"11";s:9:"post_date";s:19:"2019-09-30 12:15:44";s:13:"post_date_gmt";s:19:"2019-09-30 09:15:44";s:12:"post_content";s:271:"100% high quality!
+This is the curling/straightener iron which has the most practical function,easy to operate, ready to be used
+It features ceramic barrel to create silky sleek curl without damage your hair.
+Ceramic emits negative ions that smooth and relax your hair";s:10:"post_title";s:40:"2 in 1 Hair Straightener and Hair Curler";s:12:"post_excerpt";s:299:"100% high quality!
+This is the curling/straightener iron which has the most practical function,easy to operate, ready to be used
+It features ceramic barrel to create silky sleek curl without damage your hair.
+Ceramic emits negative ions that smooth and relax your hair. Get this product at Wisaki";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:40:"2-in-1-hair-straightener-and-hair-curler";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2019-09-30 12:15:45";s:17:"post_modified_gmt";s:19:"2019-09-30 09:15:45";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:51:"https://wisaki.co.ke/?post_type=product&#038;p=7972";s:10:"menu_order";i:0;s:9:"post_type";s:7:"product";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

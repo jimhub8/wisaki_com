@@ -1,0 +1,6 @@
+�MA^<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"8095";s:11:"post_author";s:2:"11";s:9:"post_date";s:19:"2019-10-01 09:51:36";s:13:"post_date_gmt";s:19:"2019-10-01 06:51:36";s:12:"post_content";s:164:"Bathroom slippers are light weight, easy to put on and off, soft, comfortable and hygienic. Available in different patterns like open toe and closed toe and colors.";s:10:"post_title";s:38:"Upscale Hotel Slippers & Bath Slippers";s:12:"post_excerpt";s:172:"<ul>
+ 	<li>Upscale Hotel Slippers</li>
+ 	<li> High Quality Non woven Hotel Bath Slippers</li>
+ 	<li> Cheap hotel bathroom slippers</li>
+ 	<li> Closed toe</li>
+</ul>";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:36:"upscale-hotel-slippers-bath-slippers";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2019-10-01 09:51:36";s:17:"post_modified_gmt";s:19:"2019-10-01 06:51:36";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:51:"https://wisaki.co.ke/?post_type=product&#038;p=8095";s:10:"menu_order";s:1:"0";s:9:"post_type";s:7:"product";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

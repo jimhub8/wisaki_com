@@ -1,0 +1,5 @@
+ÚMA^<?php exit; ?>a:1:{s:7:"content";a:7:{i:0;O:8:"stdClass":3:{s:7:"meta_id";s:5:"54304";s:8:"meta_key";s:20:"_ywcdd_type_checkout";s:10:"meta_value";s:3:"yes";}i:21;O:8:"stdClass":3:{s:7:"meta_id";s:5:"54332";s:8:"meta_key";s:19:"3599_default_editor";s:10:"meta_value";s:221:"<ul>
+ 	<li>Blue magic organics has pure 100% castor oil 340g</li>
+ 	<li>Aloe Vera and Shea butter leaver the scalp and hair supple.</li>
+ 	<li>With all pure natural oils‚Ä¶ healthy hair growth is guaranteed</li>
+</ul>";}i:22;O:8:"stdClass":3:{s:7:"meta_id";s:5:"54333";s:8:"meta_key";s:22:"_ywtm_hide_description";s:10:"meta_value";s:2:"no";}i:23;O:8:"stdClass":3:{s:7:"meta_id";s:5:"54334";s:8:"meta_key";s:26:"_ywtm_override_description";s:10:"meta_value";s:2:"no";}i:24;O:8:"stdClass":3:{s:7:"meta_id";s:5:"54335";s:8:"meta_key";s:30:"_ywtm_priority_tab_description";s:10:"meta_value";s:2:"10";}i:25;O:8:"stdClass":3:{s:7:"meta_id";s:5:"54336";s:8:"meta_key";s:27:"_ywtm_title_tab_description";s:10:"meta_value";s:11:"Description";}i:26;O:8:"stdClass":3:{s:7:"meta_id";s:5:"54337";s:8:"meta_key";s:29:"_ywtm_content_tab_description";s:10:"meta_value";s:0:"";}}}

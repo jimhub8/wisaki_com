@@ -1,0 +1,7 @@
+ÚMA^<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:7808;s:11:"post_author";s:2:"11";s:9:"post_date";s:19:"2019-09-26 17:54:59";s:13:"post_date_gmt";s:19:"2019-09-26 14:54:59";s:12:"post_content";s:489:"An extremely strong, handy and practical handheld hairdryer, exclusively manufactured for professional use. Gek 3000 comes with 2 optional speeds and 4 heat levels; provided with a G6 nozzle having a 6 cm width and with a G9 nozzle having a 9 cm width; reinforced and shockproof external body it is non-deform-able under the action of heat and completely recyclable. Place your order for this hairdryer online from Wisaki at the best price available and have it delivered to your doorstep.";s:10:"post_title";s:38:"Ceriotti GEK-3000 - Blow Dryer - Black";s:12:"post_excerpt";s:182:"<ul>
+ 	<li>Speed setting: 2</li>
+ 	<li>Temperature options: 4</li>
+ 	<li>Power: Over 1700W</li>
+ 	<li>High Efficiency directional outlet</li>
+ 	<li>High air pressure</li>
+</ul>";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:34:"ceriotti-gek-3000-blow-dryer-black";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2019-09-26 17:55:00";s:17:"post_modified_gmt";s:19:"2019-09-26 14:55:00";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:51:"https://wisaki.co.ke/?post_type=product&#038;p=7808";s:10:"menu_order";i:0;s:9:"post_type";s:7:"product";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

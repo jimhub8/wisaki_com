@@ -1,0 +1,1 @@
+ÉQA^<?php exit; ?>a:1:{s:7:"content";s:104:"/home/wisauyqh/public_html/wp-content/plugins/woocommerce/templates/single-product/short-description.php";}

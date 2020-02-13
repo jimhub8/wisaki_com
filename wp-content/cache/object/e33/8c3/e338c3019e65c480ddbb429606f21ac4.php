@@ -1,0 +1,8 @@
+�MA^<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:7981;s:11:"post_author";s:2:"11";s:9:"post_date";s:19:"2019-09-30 13:49:52";s:13:"post_date_gmt";s:19:"2019-09-30 10:49:52";s:12:"post_content";s:707:"This ceramic anti-scald hair straightener is the perfect companion to getting straight hair in minutes. It features with an LCD display that indicates the temperature level that is digitally control and a 360 degrees rotatable power cord.
+
+The safe and easy solution for straightening curly and wavy hair is finally available to you. Our premier Hair Straightening Brush uses innovative design, scald-free heat, and the easy process of brushing to give you a worry-free and luxurious hair straightening experience. Instant heating in less than one minute allows you to simply plug in and begin brushing.
+
+Set to desired temperature using the built in LED screen; no waiting, worrying, or wasted time.";s:10:"post_title";s:17:"Cerriotti BlowDry";s:12:"post_excerpt";s:95:"<ul>
+ 	<li>High Efficiency directional outlet</li>
+ 	<li>    High air pressure</li>
+</ul>";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:17:"cerriotti-blowdry";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2019-09-30 13:49:52";s:17:"post_modified_gmt";s:19:"2019-09-30 10:49:52";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:51:"https://wisaki.co.ke/?post_type=product&#038;p=7981";s:10:"menu_order";i:0;s:9:"post_type";s:7:"product";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

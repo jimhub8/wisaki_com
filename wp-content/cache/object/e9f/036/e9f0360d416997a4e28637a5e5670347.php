@@ -1,0 +1,3 @@
+ÉQA^<?php exit; ?>a:1:{s:7:"content";a:11:{s:10:"_edit_lock";a:1:{i:0;s:12:"1565535148:1";}s:10:"_edit_last";a:1:{i:0;s:1:"1";}s:17:"_wp_page_template";a:1:{i:0;s:7:"default";}s:14:"slide_template";a:1:{i:0;s:7:"default";}s:20:"_ywcdd_type_checkout";a:1:{i:0;s:3:"yes";}s:17:"_wpb_vc_js_status";a:1:{i:0;s:4:"true";}s:20:"_woodmart_whb_header";a:1:{i:0;s:4:"none";}s:21:"_woodmart_main_layout";a:1:{i:0;s:7:"default";}s:23:"_woodmart_sidebar_width";a:1:{i:0;s:7:"default";}s:24:"_woodmart_custom_sidebar";a:1:{i:0;s:4:"none";}s:20:"_wpb_post_custom_css";a:1:{i:0;s:147:".shortcodes.vendors-list .vendor-info-wrapper .store-image, .shortcodes.vendors-list .vendor-info-wrapper .avatar {
+    width: 150px!important;
+}";}}}
